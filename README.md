@@ -1,3 +1,7 @@
+#DEPRECATION NOTICE
+
+ExoWP has been deprecated in favor of [WPLib](http://github.com/wplib/wplib/).
+
 #ExoWP
 An MVC Exoskeleton for WordPress
 
